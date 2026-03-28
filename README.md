@@ -18,7 +18,10 @@
 ```powershell
 iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/enable_smb_and_share.ps1 | iex
 ```
-
+备用地址
+```powershell
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/SMB_Share_Tool_cn.ps1 | iex
+```
 📝 使用说明
 选择磁盘：根据脚本提示，选择需要作为共享目标的磁盘。
 

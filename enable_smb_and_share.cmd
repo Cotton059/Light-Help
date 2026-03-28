@@ -9,11 +9,18 @@ if %errorlevel% neq 0 (
     exit /b
 )
 
-:: Prompt the user to enter the path of the folder or drive they want to share
-echo Please enter the path of the folder or drive you want to share (e.g., C:\Users\YourUser\Documents or D:\):
-set /p folderPath=Path: 
+:: List all drives and prompt user to select one
+echo Available drives:
+wmic logicaldisk get name
 
-:: Check if the specified folder or drive exists
+:: Prompt the user to select a drive
+echo Please enter the letter of the drive you want to share (e.g., C, D, E):
+set /p driveLetter=Drive Letter: 
+
+:: Construct the full path to the selected drive
+set folderPath=%driveLetter%:\
+
+:: Check if the selected drive exists
 if not exist "%folderPath%" (
     echo Error: The specified path does not exist: %folderPath%
     pause
@@ -36,6 +43,6 @@ echo Sharing the folder...
 net share "%shareName%"="%folderPath%" /GRANT:everyone,FULL
 
 :: Confirmation that the folder has been shared
-echo Finished! SMB is enabled, and the folder "%folderPath%" is now shared as "%shareName%".
+echo Finished! The folder "%folderPath%" is now shared as "%shareName%".
 pause
 ENDLOCAL

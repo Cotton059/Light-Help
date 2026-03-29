@@ -18,6 +18,9 @@
 **光速分享视频：** [iPhone照片视频无线传输到Windows无需任何软件](https://www.youtube.com/@光速分享)  
 *（帮助项目，观看用户专用）*
 
+<a href="https://google.com" target="_blank">
+  <img src="https://github.com/user-attachments/assets/e3db959e-48e4-4b24-b1f6-6f78ed93e5a1" width="320" alt="视频封面图" />
+</a>
 
 ## 💻 快速开始 (Windows + X)
 在 **PowerShell 管理员模式** 中运行以下命令：

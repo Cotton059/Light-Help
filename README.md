@@ -147,8 +147,24 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/SMB_Share_
 ---
 
 
-### 📜 License
-本项目采用 **[MIT License](LICENSE)** 许可协议。
-你可以自由地使用、修改和分发本项目代码，但请保留原作者署名。详细条款请参阅 LICENSE 文件。
+## ⚖️ 开源协议与版权声明 (License & Copyright)
+
+### 1. 核心协议
+本项目采用 **[GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl-3.0.html)** 协议开源。
+
+- **对用户友好**：您可以自由地运行、学习、共享和修改本软件。
+- **强制开源（传染性）**：如果您修改了本项目代码并进行分发，则您的修改部分也必须以 GPL-3.0 协议开源，这确保了本项目及其衍生工具将永久保持免费与透明，防止被闭源商业化。
+
+### 2. 外部代码合规性 (Third-Party Code)
+为了项目的功能完整性，本项目可能包含部分第三方开源代码（通常存放于 `ThirdParty/` 目录下）。
+- 本项目严格遵守原作者的开源许可。
+- **所有外部代码均完整保留了原作者的署名、版权声明及原始协议。**
+
+### 3. 原创声明与开发者签名
+对于本项目中的所有自主编写的脚本及核心逻辑，开发者保留其版权。在 GPL-3.0 框架下，请认准官方署名：
+
+> **Author:** Lightspeed Sharing (YT) | **Project:** Cotton059/Light-Help  
+> **Developer:** Lightspeed Sharing (YT) | **Project:** Light-Help (GitHub)
 
 ---
+

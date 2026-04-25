@@ -144,10 +144,25 @@ Restart Computer: If this is the first time enabling the SMB service, please res
 
 ---
 
+## ⚖️ License & Copyright
 
-### 📜 License
-This project is licensed under the **[MIT License](LICENSE)**.
+### 1. Core License
+This project is open-source under the **[GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl-3.0.html)**.
 
-You are free to use, modify, and distribute the code in this project, provided that the original author's attribution is retained. For more details, please refer to the LICENSE file.
+- **User-Friendly**: You are free to run, study, share, and modify this software.
+- **Copyleft (Mandatory Open Source)**: If you modify and distribute the code from this project, your modifications must also be open-sourced under the GPL-3.0 license. This ensures that this project and its derivatives will remain permanently free and transparent, preventing them from being closed-source or commercialized.
+
+### 2. Third-Party Code Compliance
+To ensure functional completeness, this project may contain third-party open-source code (typically stored in the `ThirdParty/` directory).
+- This project strictly complies with the original authors' open-source licenses.
+- **All external code completely retains the original authors' attribution, copyright notices, and original licenses.**
+
+### 3. Originality Statement & Developer Signature
+The developer reserves the copyright for all independently written scripts and core logic within this project. Under the GPL-3.0 framework, please recognize the official signature:
+
+> **Author:** Lightspeed Sharing (YT) | **Project:** Cotton059/Light-Help  
+> **Developer:** Lightspeed Sharing (YT) | **Project:** Light-Help (GitHub)
+
+---
 
 ---

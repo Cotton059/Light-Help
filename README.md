@@ -49,7 +49,20 @@ $s=(New-Object -COM WScript.Shell).CreateShortcut("$([Environment]::GetFolderPat
 
 iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Create_AdminPSShortcut_Tool.ps1 | iex
 ```
+---
+**▶️ 光速分享 (YT) 视频教程：** [github一键汉化](https://youtu.be/5bBx3p3nWok)  
+*（专属帮助项目，观看用户专用）*
 
+<a href="https://youtu.be/5bBx3p3nWok" target="_blank">
+  <img src="images/013-1280-zh.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />
+</a>
+
+### 💿 github一键汉化
+> **提示：** 将备份整个Users目录，包含🆗AppData🆗下载🆗图片🆗文档🆗
+```powershell
+
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/GitHub-CN-Installer_Tool.ps1 | iex
+```
 ---
 **▶️ 光速分享 (YT) 视频教程：** [一行代码搞定！Windows 软件数据一键备份与恢复](https://youtu.be/5bBx3p3nWok)  
 *（专属帮助项目，观看用户专用）*

@@ -70,10 +70,6 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/GitH
 https://github.com/Cotton059/Light-Help/raw/refs/heads/main/ThirdParty/maboloshi_github-chinese/main.user.js
 ```
 
-
-
-
-
 ---
 **▶️ 光速分享 (YT) 视频教程：** [一行代码搞定！Windows 软件数据一键备份与恢复](https://youtu.be/5bBx3p3nWok)  
 *（专属帮助项目，观看用户专用）*

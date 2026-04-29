@@ -57,8 +57,8 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
   <img src="images/013-1280-zh.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />
 </a>
 
-### 💿 github一键汉化
-> **提示：** 将备份整个Users目录，包含🆗AppData🆗下载🆗图片🆗文档🆗
+### 🌐 GitHub 沉浸母语版
+> **提示：** 完美GitHub原生布局快速安装chrome官方插件，推荐使用它
 ```powershell
 
 iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/GitHub-CN-Installer_Tool.ps1 | iex

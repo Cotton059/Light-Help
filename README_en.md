@@ -50,6 +50,20 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 ```
 
 ---
+**▶️ 光速分享 (YT) 视频教程：** [一行代码彻底汉化 GitHub！最快配置方案](https://youtu.be/5bBx3p3nWok)  
+*（专属帮助项目，观看用户专用）*
+
+<a href="https://youtu.be/5bBx3p3nWok" target="_blank">
+  <img src="images/013-1280-en.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />
+</a>
+
+### 🌐 GitHub 沉浸母语版
+> **提示：** 完美GitHub原生布局快速安装chrome官方插件，推荐使用它
+```powershell
+
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/GitHub-CN-Installer_Tool.ps1 | iex
+```
+---
 **▶️ Lightspeed Sharing (YT) Video Tutorial:** [One Line of Code! Windows App Data 1-Click Backup & Restore](https://youtu.be/5bBx3p3nWok)  
 *(Exclusive companion project for viewers)*
 

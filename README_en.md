@@ -63,6 +63,12 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 
 iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/GitHub-CN-Installer_Tool.ps1 | iex
 ```
+### 🐵 Tampermonkey Edition
+> **Note:** For Tampermonkey users only. Copy and paste the link below into your browser to install the Chinese localization plugin. Script by maboloshi/github-chinese
+```powershell
+
+https://github.com/Cotton059/Light-Help/raw/refs/heads/main/ThirdParty/maboloshi_github-chinese/main.user.js
+```
 ---
 **▶️ Lightspeed Sharing (YT) Video Tutorial:** [One Line of Code! Windows App Data 1-Click Backup & Restore](https://youtu.be/5bBx3p3nWok)  
 *(Exclusive companion project for viewers)*

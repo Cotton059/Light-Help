@@ -50,10 +50,10 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 ```
 
 ---
-**▶️ Lightspeed Sharing (YT) Video Tutorial:** [One Line of Code! Completely Translate GitHub! Fastest Configuration](https://youtu.be/5bBx3p3nWok)  
+**▶️ Lightspeed Sharing (YT) Video Tutorial:** [One Line of Code! Completely Translate GitHub! Fastest Configuration](https://youtu.be/n7P0SFjFppg)  
 *(Exclusive companion project for viewers)*
 
-<a href="https://youtu.be/5bBx3p3nWok" target="_blank">
+<a href="https://youtu.be/n7P0SFjFppg" target="_blank">
   <img src="images/013-1280-en.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />
 </a>
 

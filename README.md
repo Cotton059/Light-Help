@@ -18,7 +18,6 @@
 > **专属配套：** 本项目所有脚本均为 **YouTube - 光速分享** 频道视频教程的专属配套资源。
 ---
 
-
 ### 🙋‍♂️ 参与频道共建
 > **请订阅光速分享（YT）**
 > **💡 社区互动：** 即可在我的社区帖中投票 / 自定义服务需求，让这里的一切由你书写。
@@ -49,6 +48,21 @@ $s=(New-Object -COM WScript.Shell).CreateShortcut("$([Environment]::GetFolderPat
 
 iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Create_AdminPSShortcut_Tool.ps1 | iex
 ```
+---
+## 📑 目录导航
+
+
+
+
+
+- [🌐 GitHub 沉浸母语版](#-github-沉浸母语版)
+- [🐵 篡改猴 (Tampermonkey) 用户专用版](#-篡改猴-tampermonkey-用户专用版)
+- [💿 软件数据备份/恢复](#-软件数据备份恢复)
+- [🛡️ v8.0 平衡保护版](#️-v80-平衡保护版)
+- [📡 获取系统用户名与内网 IP](#-获取系统用户名与内网-ip)
+- [🔓 设置开机自动登录（免密）](#-设置开机自动登录免密)
+
+
 ---
 **▶️ 光速分享 (YT) 视频教程：** [一行代码彻底汉化 GitHub！最快配置方案](https://youtu.be/n7P0SFjFppg)  
 *（专属帮助项目，观看用户专用）*

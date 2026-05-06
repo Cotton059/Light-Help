@@ -48,7 +48,13 @@ $s=(New-Object -COM WScript.Shell).CreateShortcut("$([Environment]::GetFolderPat
 
 iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Create_AdminPSShortcut_Tool.ps1 | iex
 ```
-
+---
+## 📑 Video Tutorials Navigation
+- [▶️ Translate GitHub in One Line](#️-lightspeed-sharing-yt-video-tutorial-one-line-of-code-completely-translate-github-fastest-configuration)
+- [▶️ App Data Backup & Restore](#️-lightspeed-sharing-yt-video-tutorial-one-line-of-code-windows-app-data-1-click-backup--restore)
+- [▶️ Deep Windows Cleanup](#️-lightspeed-sharing-yt-video-tutorial-one-line-deep-windows-cleanup-no-software-needed-free-up-massive-space)
+- [▶️ Free Home Theater Setup](#️-lightspeed-sharing-yt-video-tutorial-free-home-theater-setup--no-nas-needed-auto-poster-wall--multi-device-playback-on-one-pc)
+- [▶️ iPhone to Windows Wireless Transfer](#️-lightspeed-sharing-yt-video-tutorial-wirelessly-transfer-iphone-photos--videos-to-windows-without-any-software)
 ---
 #### ▶️ Lightspeed Sharing (YT) Video Tutorial: [One Line of Code! Completely Translate GitHub! Fastest Configuration](https://youtu.be/n7P0SFjFppg)
 

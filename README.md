@@ -60,7 +60,6 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 
 ---
 #### ▶️ 光速分享 (YT) 视频教程：[一行代码利用AI一键生成完美证件照，别再去照相馆花冤枉钱了！省时又省力！](您的视频链接)
-*（专属帮助项目，观看用户专用）*
 
 <a href="您的视频链接" target="_blank">
   <img src="images/014-1920-zh.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />

@@ -51,11 +51,26 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 ---
 
 ## 📑 视频教程导航
+- [▶️ 一行代码利用AI一键生成完美证件照](#️-光速分享-yt-视频教程一行代码利用ai一键生成完美证件照别再去照相馆花冤枉钱了省时又省力)
 - [▶️ 一行代码彻底汉化 GitHub！](#️-光速分享-yt-视频教程一行代码彻底汉化-github最快配置方案)
 - [▶️ 一行代码搞定！Windows 软件数据一键备份与恢复](#️-光速分享-yt-视频教程一行代码搞定windows-软件数据一键备份与恢复)
 - [▶️ 一行代码深度清理 Windows！](#️-光速分享-yt-视频教程一行代码深度清理-windows无需安装软件一键释放巨量系统空间)
 - [▶️ 免费家庭影院搭建教程｜无需NAS](#️-光速分享-yt-视频教程免费家庭影院搭建教程无需nas一台电脑实现自动海报墙--全设备播放)
 - [▶️ iPhone照片视频无线传输到Windows](#️-光速分享-yt-视频教程iphone照片视频无线传输到windows无需任何软件)
+
+---
+#### ▶️ 光速分享 (YT) 视频教程：[一行代码利用AI一键生成完美证件照，别再去照相馆花冤枉钱了！省时又省力！](您的视频链接)
+*（专属帮助项目，观看用户专用）*
+
+<a href="您的视频链接" target="_blank">
+  <img src="images/014-1920-zh.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />
+</a>
+
+### 📸 AI 一键证件照生成工具
+> **提示：** 生成多类型完美证件照提示词，发至任意AI一键生成完美标准尺寸的证件照，省时省力
+
+```powershell
+iwr -useb [https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/AIPortrait_Tool.ps1](https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/AIPortrait_Tool.ps1) | iex
 
 ---
 #### ▶️ 光速分享 (YT) 视频教程：[一行代码彻底汉化 GitHub！最快配置方案](https://youtu.be/n7P0SFjFppg)

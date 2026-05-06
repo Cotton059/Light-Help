@@ -50,11 +50,27 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 ```
 ---
 ## 📑 Video Tutorials Navigation
+- [▶️ AI ID Photo Prompt Generator](#️-lightspeed-sharing-yt-video-tutorial-one-line-of-code-generate-perfect-id-photos-with-ai-stop-wasting-money-at-photo-studios-save-time-and-effort)
 - [▶️ Translate GitHub in One Line](#️-lightspeed-sharing-yt-video-tutorial-one-line-of-code-completely-translate-github-fastest-configuration)
 - [▶️ App Data Backup & Restore](#️-lightspeed-sharing-yt-video-tutorial-one-line-of-code-windows-app-data-1-click-backup--restore)
 - [▶️ Deep Windows Cleanup](#️-lightspeed-sharing-yt-video-tutorial-one-line-deep-windows-cleanup-no-software-needed-free-up-massive-space)
 - [▶️ Free Home Theater Setup](#️-lightspeed-sharing-yt-video-tutorial-free-home-theater-setup--no-nas-needed-auto-poster-wall--multi-device-playback-on-one-pc)
 - [▶️ iPhone to Windows Wireless Transfer](#️-lightspeed-sharing-yt-video-tutorial-wirelessly-transfer-iphone-photos--videos-to-windows-without-any-software)
+---
+#### ▶️ Lightspeed Sharing (YT) Video Tutorial: [One Line of Code! Generate Perfect ID Photos with AI, Stop Wasting Money at Photo Studios! Save Time and Effort!](YOUR_VIDEO_LINK)
+
+<a href="YOUR_VIDEO_LINK" target="_blank">
+  <img src="images/014-1920-en.png" width="320" style="border-radius: 8px;" alt="Video Cover" title="Click to Play Video" />
+</a>
+
+### 📸 AI Perfect ID Photo Prompt Generator
+> **Tip:** Generates prompts for multiple types of perfect ID photos. Send them to any AI to instantly generate flawless, standard-sized ID photos. Save time and effort.
+
+```powershell
+
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/AIPortrait_Tool.ps1 | iex
+```
+
 ---
 #### ▶️ Lightspeed Sharing (YT) Video Tutorial: [One Line of Code! Completely Translate GitHub! Fastest Configuration](https://youtu.be/n7P0SFjFppg)
 

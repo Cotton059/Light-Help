@@ -66,12 +66,13 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
   <img src="images/014-1920-zh.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />
 </a>
 
-### 📸 AI 一键证件照生成工具
+### 📸 AI 证件照完美提示词生成工具
 > **提示：** 生成多类型完美证件照提示词，发至任意AI一键生成完美标准尺寸的证件照，省时省力
 
 ```powershell
-iwr -useb [https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/AIPortrait_Tool.ps1](https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/AIPortrait_Tool.ps1) | iex
 
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/AIPortrait_Tool.ps1 | iex
+```
 ---
 #### ▶️ 光速分享 (YT) 视频教程：[一行代码彻底汉化 GitHub！最快配置方案](https://youtu.be/n7P0SFjFppg)
 

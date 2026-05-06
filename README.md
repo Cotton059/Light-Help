@@ -49,19 +49,13 @@ $s=(New-Object -COM WScript.Shell).CreateShortcut("$([Environment]::GetFolderPat
 iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Create_AdminPSShortcut_Tool.ps1 | iex
 ```
 ---
-## 📑 目录导航
 
-
-
-
-
-- [🌐 GitHub 沉浸母语版](#-github-沉浸母语版)
-- [🐵 篡改猴 (Tampermonkey) 用户专用版](#-篡改猴-tampermonkey-用户专用版)
-- [💿 软件数据备份/恢复](#-软件数据备份恢复)
-- [🛡️ v8.0 平衡保护版](#️-v80-平衡保护版)
-- [📡 获取系统用户名与内网 IP](#-获取系统用户名与内网-ip)
-- [🔓 设置开机自动登录（免密）](#-设置开机自动登录免密)
-
+## 📑 视频教程导航
+- [▶️ 一行代码彻底汉化 GitHub！最快配置方案](#-github-沉浸母语版)
+- [▶️ 一行代码搞定！Windows 软件数据一键备份与恢复](#-软件数据备份恢复)
+- [▶️ 一行代码深度清理 Windows！无需安装软件，一键释放巨量系统空间](#️-极致清理版)
+- [▶️ 免费家庭影院搭建教程｜无需NAS，一台电脑实现自动海报墙 + 全设备播放](#-创建共享文件夹与启用-smb-服务)
+- [▶️ iPhone照片视频无线传输到Windows无需任何软件](#-创建共享文件夹与启用-smb-服务-1)
 
 ---
 **▶️ 光速分享 (YT) 视频教程：** [一行代码彻底汉化 GitHub！最快配置方案](https://youtu.be/n7P0SFjFppg)  

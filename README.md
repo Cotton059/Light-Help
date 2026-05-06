@@ -58,8 +58,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 - [▶️ iPhone照片视频无线传输到Windows无需任何软件](#-创建共享文件夹与启用-smb-服务-1)
 
 ---
-**▶️ 光速分享 (YT) 视频教程：** [一行代码彻底汉化 GitHub！最快配置方案](https://youtu.be/n7P0SFjFppg)  
-*（专属帮助项目，观看用户专用）*
+#### ▶️ 光速分享 (YT) 视频教程：[一行代码彻底汉化 GitHub！最快配置方案](https://youtu.be/n7P0SFjFppg)
 
 <a href="https://youtu.be/n7P0SFjFppg" target="_blank">
   <img src="images/013-1280-zh.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />
@@ -79,8 +78,7 @@ https://github.com/Cotton059/Light-Help/raw/refs/heads/main/ThirdParty/maboloshi
 ```
 
 ---
-**▶️ 光速分享 (YT) 视频教程：** [一行代码搞定！Windows 软件数据一键备份与恢复](https://youtu.be/5bBx3p3nWok)  
-*（专属帮助项目，观看用户专用）*
+#### ▶️ 光速分享 (YT) 视频教程：[一行代码搞定！Windows 软件数据一键备份与恢复](https://youtu.be/5bBx3p3nWok)
 
 <a href="https://youtu.be/5bBx3p3nWok" target="_blank">
   <img src="images/012-1280-zh.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />
@@ -95,8 +93,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/AppBackup_
 
 
 ---
-**▶️ 光速分享 (YT) 视频教程：** [一行代码深度清理 Windows！无需安装软件，一键释放巨量系统空间](https://youtu.be/f5Ta_W54GL0)  
-*（专属帮助项目，观看用户专用）*
+#### ▶️ 光速分享 (YT) 视频教程：[一行代码深度清理 Windows！无需安装软件，一键释放巨量系统空间](https://youtu.be/f5Ta_W54GL0)
 
 <a href="https://youtu.be/f5Ta_W54GL0" target="_blank">
   <img src="images/011-1280-zh.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />
@@ -116,8 +113,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/DeepClean_
 ```
 
 ---
-**▶️ 光速分享 (YT) 视频教程：** [免费家庭影院搭建教程｜无需NAS，一台电脑实现自动海报墙 + 全设备播放](https://youtu.be/EPpgy2S_9lg)  
-*（专属帮助项目，观看用户专用）*
+#### ▶️ 光速分享 (YT) 视频教程：[免费家庭影院搭建教程｜无需NAS，一台电脑实现自动海报墙 + 全设备播放](https://youtu.be/EPpgy2S_9lg)
 
 <a href="https://youtu.be/EPpgy2S_9lg" target="_blank">
   <img src="images/009-1280-zh.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />
@@ -153,8 +149,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/Win1011Aut
 
 ---
 
-**▶️ 光速分享 (YT) 视频教程：** [iPhone照片视频无线传输到Windows无需任何软件](https://youtu.be/USNIBEAcWME)  
-*（专属帮助项目，观看用户专用）*
+#### ▶️ 光速分享 (YT) 视频教程：[iPhone照片视频无线传输到Windows无需任何软件](https://youtu.be/USNIBEAcWME)
 
 <a href="https://youtu.be/USNIBEAcWME" target="_blank">
   <img src="images/007-1280-zh.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />

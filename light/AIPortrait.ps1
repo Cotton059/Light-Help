@@ -121,7 +121,6 @@ if (-not $isAdmin) {
 
 # --- Static Base Prompt Sections ---
 $BaseTop = @"
-### Document Photo Conversion Suite v4
 
 Prohibit feature reshaping. Allow ultra-light skin smoothing, but must lock the subject's fundamental authentic facial appearance.
 

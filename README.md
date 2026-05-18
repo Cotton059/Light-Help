@@ -51,6 +51,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 ---
 
 ## 📑 视频教程导航
+- [▶️ Windows 内存终极拯救](#️-光速分享-yt-视频教程windows-1110-内存终极拯救一行代码一键释放-ram让电脑瞬间起飞)
 - [▶️ 一行代码利用AI一键生成完美证件照](#️-光速分享-yt-视频教程一行代码利用ai一键生成完美证件照别再去照相馆花冤枉钱了省时又省力)
 - [▶️ 一行代码彻底汉化 GitHub！](#️-光速分享-yt-视频教程一行代码彻底汉化-github最快配置方案)
 - [▶️ 一行代码搞定！Windows 软件数据一键备份与恢复](#️-光速分享-yt-视频教程一行代码搞定windows-软件数据一键备份与恢复)
@@ -58,6 +59,19 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 - [▶️ 免费家庭影院搭建教程｜无需NAS](#️-光速分享-yt-视频教程免费家庭影院搭建教程无需nas一台电脑实现自动海报墙--全设备播放)
 - [▶️ iPhone照片视频无线传输到Windows](#️-光速分享-yt-视频教程iphone照片视频无线传输到windows无需任何软件)
 
+---
+#### ▶️ 光速分享 (YT) 视频教程：[Windows 11/10 内存终极拯救：一行代码一键释放 RAM，让电脑瞬间起飞！](https://youtu.be/q4KUOJbgJZ4)
+
+<a href="https://youtu.be/q4KUOJbgJZ4" target="_blank">
+  <img src="images/015-1920-zh.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />
+</a>
+
+### 🚀 内存终极释放工具
+> **提示：** 一键深度释放 Windows 系统 RAM，高效清理内存占用，让您的电脑瞬间恢复流畅的运行体验。
+
+```powershell
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/CryoRAM_Tool.ps1 | iex
+```
 ---
 #### ▶️ 光速分享 (YT) 视频教程：[一行代码利用AI一键生成完美证件照，别再去照相馆花冤枉钱了！省时又省力！](https://youtu.be/q4KUOJbgJZ4)
 

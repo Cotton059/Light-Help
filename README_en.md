@@ -58,9 +58,9 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 - [▶️ Free Home Theater Setup](#️-lightspeed-sharing-yt-video-tutorial-free-home-theater-setup--no-nas-needed-auto-poster-wall--multi-device-playback-on-one-pc)
 - [▶️ iPhone to Windows Wireless Transfer](#️-lightspeed-sharing-yt-video-tutorial-wirelessly-transfer-iphone-photos--videos-to-windows-without-any-software)
 ---
-#### ▶️ Lightspeed Sharing (YT) Video Tutorial: [Windows 11/10 Ultimate RAM Rescue: One Line of Code to 1-Click Free Up RAM, Make Your PC Fly!](https://youtu.be/q4KUOJbgJZ4)
+#### ▶️ Lightspeed Sharing (YT) Video Tutorial: [Windows 11/10 Ultimate RAM Rescue: One Line of Code to 1-Click Free Up RAM, Make Your PC Fly!](https://youtu.be/PqKu_lRyAZM)
 
-<a href="https://youtu.be/q4KUOJbgJZ4" target="_blank">
+<a href="https://youtu.be/PqKu_lRyAZM" target="_blank">
   <img src="images/015-1920-en.png" width="320" style="border-radius: 8px;" alt="Video Cover" title="Click to Play Video" />
 </a>
 

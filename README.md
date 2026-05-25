@@ -80,10 +80,12 @@ dism /online /Enable-Feature /FeatureName:MicrosoftWindowsPowerShellRoot /All
 curl -L -o PS.msi https://github.com/PowerShell/PowerShell/releases/download/v7.4.2/PowerShell-7.4.2-win-x64.msi && msiexec /i PS.msi /qb
 ```
 ### 🍎 Mac 与 Linux 跨平台安装
+> **提示：** 如果您的苹果 macOS 系统原生尚未配置脚本环境，请按下 `Command + 空格` 搜索并打开“终端”(Terminal)，然后复制以下命令执行一键安装：
 ```Bash
 brew install --cask powershell
 ```
 ### 🐧Linux 系统安装 (以 Ubuntu 的 Snap 包管理器为例)：
+> **提示**： 如果您的 Linux 系统缺少 PowerShell 运行组件，请直接打开系统的命令行终端，并使用自带的包管理器拉取最新版环境
 ```Bash
 sudo snap install powershell --classic
 ```

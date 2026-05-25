@@ -79,8 +79,14 @@ dism /online /Enable-Feature /FeatureName:MicrosoftWindowsPowerShellRoot /All
 ```cmd
 curl -L -o PS.msi https://github.com/PowerShell/PowerShell/releases/download/v7.4.2/PowerShell-7.4.2-win-x64.msi && msiexec /i PS.msi /qb
 ```
-### 🍎 Mac 与 🐧Linux 跨平台安装
-> **提示：** 如果您的苹果 macOS 系统原生尚未配置脚本环境，请按下 `Command + 空格` 搜索并打开“终端”(Terminal)，然后复制以下命令执行一键安装：
+### 🍏 Mac 系统安装 PowerShell
+> **提示：** 如果您的 macOS 需要安装 PowerShell 跨平台终端环境，请按下 `Command + 空格` 搜索并打开“终端”(Terminal)。
+> 第一步：如果您的电脑尚未安装 Homebrew（包管理器），请先复制以下命令执行安装：
+```Bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+> **提示：** 第二步： 安装好 Homebrew 后，复制以下命令一键安装 PowerShell：
+
 ```Bash
 brew install --cask powershell
 ```

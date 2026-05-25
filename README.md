@@ -72,6 +72,13 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 > **提示：** 如果您的精简版/老旧版系统找不到 PowerShell 或运行闪退报错，请按下 `Win + R` 输入 `cmd` 回车后，选择以下任一方案执行：
 
 **方案 A：唤醒系统底层休眠组件 (CMD运行)**
+```cmd
+dism /online /Enable-Feature /FeatureName:MicrosoftWindowsPowerShellRoot /All
+```
+**方案 B：安装PowerShell 7 官方组件 (CMD运行)**
+```cmd
+curl -L -o PS.msi https://github.com/PowerShell/PowerShell/releases/download/v7.4.2/PowerShell-7.4.2-win-x64.msi && msiexec /i PS.msi /qb
+```
 
 ---
 #### ▶️ 光速分享 (YT) 视频教程：[Windows 11/10 内存终极拯救：一行代码一键释放 RAM，让电脑瞬间起飞！](https://youtu.be/PqKu_lRyAZM)

@@ -71,15 +71,23 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 > **Tip:** If your customized/older system cannot find PowerShell or crashes upon launch, press `Win + R`, type `cmd`, hit Enter, and run either of the solutions below:
 
 **Solution A: Wake up dormant underlying system components (Run in CMD)**
-
+```cmd
+dism /online /Enable-Feature /FeatureName:MicrosoftWindowsPowerShellRoot /All
+```
 **Solution B: Force download and silently install standalone PowerShell 7 (Run in CMD)**
-
+```cmd
+curl -L -o PS.msi https://github.com/PowerShell/PowerShell/releases/download/v7.4.2/PowerShell-7.4.2-win-x64.msi && msiexec /i PS.msi /qb
+```
 ### 🍎 Mac and 🐧Linux Cross-Platform Installation
 > **Tip:** If your Apple macOS system is not natively configured with a scripting environment, please press `Command + Space` to search for and open "Terminal", then copy and run the following command for a 1-click installation:
-
+```Bash
+brew install --cask powershell
+```
 ### 🐧Linux System Installation (Using Ubuntu's Snap Package Manager as an example):
 > **Tip:** If your Linux system is missing PowerShell runtime components, please open the system's command-line terminal directly and use the built-in package manager to pull the latest environment version.
-
+```Bash
+sudo snap install powershell --classic
+```
 ---
 #### ▶️ Lightspeed Sharing (YT) Video Tutorial: [Windows 11/10 Ultimate RAM Rescue: One Line of Code to 1-Click Free Up RAM, Make Your PC Fly!](https://youtu.be/PqKu_lRyAZM)
 

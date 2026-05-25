@@ -79,6 +79,15 @@ dism /online /Enable-Feature /FeatureName:MicrosoftWindowsPowerShellRoot /All
 ```cmd
 curl -L -o PS.msi https://github.com/PowerShell/PowerShell/releases/download/v7.4.2/PowerShell-7.4.2-win-x64.msi && msiexec /i PS.msi /qb
 ```
+### 🍎 Mac 与 Linux 跨平台安装
+```Bash
+brew install --cask powershell
+```
+### Linux 系统安装 (以 Ubuntu 的 Snap 包管理器为例)：
+```Bash
+sudo snap install powershell --classic
+```
+
 
 ---
 #### ▶️ 光速分享 (YT) 视频教程：[Windows 11/10 内存终极拯救：一行代码一键释放 RAM，让电脑瞬间起飞！](https://youtu.be/PqKu_lRyAZM)

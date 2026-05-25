@@ -83,7 +83,7 @@ curl -L -o PS.msi https://github.com/PowerShell/PowerShell/releases/download/v7.
 ```Bash
 brew install --cask powershell
 ```
-### Linux 系统安装 (以 Ubuntu 的 Snap 包管理器为例)：
+### 🐧Linux 系统安装 (以 Ubuntu 的 Snap 包管理器为例)：
 ```Bash
 sudo snap install powershell --classic
 ```

@@ -80,11 +80,11 @@ curl -L -o PS.msi https://github.com/PowerShell/PowerShell/releases/download/v7.
 ```
 ### 🍏 Install PowerShell on Mac
 > **Tip:** If your macOS requires the PowerShell cross-platform terminal environment, press `Command + Space` to search for and open "Terminal".
-> Step 1: If your computer does not have Homebrew (package manager) installed yet, please copy and run the following command to install it:
+
 ```Bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
-> **Tip:** Step 2: After installing Homebrew, copy the following command to install PowerShell in one click:
+> **Tip:** After installing Homebrew, copy the following command to install PowerShell in one click:
 ```Bash
 brew install --cask powershell
 ```

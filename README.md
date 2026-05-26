@@ -33,7 +33,7 @@
 > * **方式二（系统搜索）：** 点击桌面任务栏的 🔎 搜索图标，输入 `PowerShell` 并点击打开。
 > * **方式三（终极方案）：** 使用本页提供的 **🛡️ PowerShell 管理员快捷方式**。
 > 
-> **教程链接：** 🔗[YouTube 视频教程](https://youtu.be/YOUR_VIDEO_ID) | 🔗[Bilibili 视频教程](https://www.bilibili.com/video/YOUR_BVID)
+> **教程链接：** 🔗[YouTube 视频教程](https://youtu.be/q_gJc6e8tK0) | 🔗[Bilibili 视频教程](https://www.bilibili.com/video/BV1iXVA6rEdn/)
 ---
 
 ### 🔗 仓库Light-help快捷方式
@@ -64,7 +64,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 ---
 #### ▶️ 光速分享 (YT) 视频教程：[PowerShell 脚本终极运行指南：提权、修复与全平台配置](https://youtu.be/YOUR_VIDEO_ID)
 
-<a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank">
+<a href="https://youtu.be/q_gJc6e8tK0" target="_blank">
   <img src="images/021-1920-zh.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />
 </a>
 

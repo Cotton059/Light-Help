@@ -33,7 +33,7 @@
 > * **Method 2 (System Search):** Click the 🔎 Search icon on the taskbar, type `PowerShell`, and open it.
 > * **Method 3 (Ultimate Solution):** Use the **🛡️ PowerShell Admin Shortcut** provided on this page.
 
-> **Tutorial Links:** 🔗[YouTube Video Tutorial](https://youtu.be/YOUR_VIDEO_ID) | 🔗[Bilibili Video Tutorial](https://www.bilibili.com/video/YOUR_BVID)
+> **Tutorial Links:** 🔗[YouTube Video Tutorial](https://youtu.be/q_gJc6e8tK0) | 🔗[Bilibili Video Tutorial](https://www.bilibili.com/video/BV1iXVA6rEdn/)
 
 ---
 
@@ -63,7 +63,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 ---
 #### ▶️ Lightspeed Sharing (YT) Video Tutorial: [PowerShell 1-Click Guide: Elevate, Fix & Setup](https://youtu.be/YOUR_VIDEO_ID)
 
-<a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank">
+<a href="https://youtu.be/q_gJc6e8tK0" target="_blank">
   <img src="images/021-1920-en.png" width="320" style="border-radius: 8px;" alt="Video Cover" title="Click to Play Video" />
 </a>
 

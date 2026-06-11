@@ -69,7 +69,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
   <img src="images/020-1920-zh.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />
 </a>
 
-### 🛡️ 永久屏蔽 iOS 系统更新 (免电脑/免越狱)
+### 🛡️ 一键屏蔽 iOS 系统更新 (免电脑/免越狱)
 > **提示：** 彻底告别苹果跨代强制更新与静默升级。请直接使用 iPhone 自带的 **Safari 浏览器** 访问以下专属节点，系统将自动弹出“已下载描述文件”的提示。点击允许并进入系统“设置”中一键安装，全程不到 30 秒。
 
 **专属无广告 OTA 屏蔽节点：**

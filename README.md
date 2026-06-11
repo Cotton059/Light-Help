@@ -52,6 +52,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 ---
 
 ## 📑 视频教程导航
+- [▶️ 30秒彻底阻断 iOS 静默升级](#️-光速分享-yt-视频教程30秒彻底阻断-ios-静默升级让你的-iphone-永远停在养老甜点位)
 - [▶️ PowerShell 终极运行指南 (Win/Mac/Linux)](#️-光速分享-yt-视频教程powershell-脚本终极运行指南提权修复与全平台配置)
 - [▶️ Windows 内存终极拯救](#️-光速分享-yt-视频教程windows-1110-内存终极拯救一行代码一键释放-ram让电脑瞬间起飞)
 - [▶️ 一行代码利用AI一键生成完美证件照](#️-光速分享-yt-视频教程一行代码利用ai一键生成完美证件照别再去照相馆花冤枉钱了省时又省力)
@@ -61,6 +62,20 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 - [▶️ 免费家庭影院搭建教程｜无需NAS](#️-光速分享-yt-视频教程免费家庭影院搭建教程无需nas一台电脑实现自动海报墙--全设备播放)
 - [▶️ iPhone照片视频无线传输到Windows](#️-光速分享-yt-视频教程iphone照片视频无线传输到windows无需任何软件)
 
+---
+#### ▶️ 光速分享 (YT) 视频教程：[30秒彻底阻断 iOS 静默升级，让你的 iPhone 永远停在“养老甜点位”](https://youtu.be/YOUR_VIDEO_ID)
+
+<a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank">
+  <img src="images/020-1920-zh.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />
+</a>
+
+### 🛡️ 永久屏蔽 iOS 系统更新 (免电脑/免越狱)
+> **提示：** 彻底告别苹果跨代强制更新与静默升级。请直接使用 iPhone 自带的 **Safari 浏览器** 访问以下专属节点，系统将自动弹出“已下载描述文件”的提示。点击允许并进入系统“设置”中一键安装，全程不到 30 秒。
+
+**专属无广告 OTA 屏蔽节点：**
+```text
+ota.103386.xyz	
+```
 ---
 #### ▶️ 光速分享 (YT) 视频教程：[PowerShell 脚本终极运行指南：提权、修复与全平台配置](https://youtu.be/q_gJc6e8tK0)
 

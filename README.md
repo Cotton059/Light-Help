@@ -63,9 +63,9 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 - [▶️ iPhone照片视频无线传输到Windows](#️-光速分享-yt-视频教程iphone照片视频无线传输到windows无需任何软件)
 
 ---
-#### ▶️ 光速分享 (YT) 视频教程：[30秒彻底阻断 iOS 静默升级，让你的 iPhone 永远停在“养老甜点位”](https://youtu.be/YOUR_VIDEO_ID)
+#### ▶️ 光速分享 (YT) 视频教程：[30秒彻底阻断 iOS 静默升级，让你的 iPhone 永远停在“养老甜点位”](https://youtu.be/grUi6NUjOh0)
 
-<a href="https://youtu.be/YOUR_VIDEO_ID" target="_blank">
+<a href="https://youtu.be/grUi6NUjOh0" target="_blank">
   <img src="images/020-1920-zh.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />
 </a>
 

@@ -63,7 +63,6 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 - [▶️ 免费家庭影院搭建教程｜无需NAS](#️-光速分享-yt-视频教程免费家庭影院搭建教程无需nas一台电脑实现自动海报墙--全设备播放)
 - [▶️ iPhone照片视频无线传输到Windows](#️-光速分享-yt-视频教程iphone照片视频无线传输到windows无需任何软件)
 
----
 
 ---
 #### ▶️ 光速分享 (YT) 视频教程：[幻兽帕鲁服务器搭建教程：Windows本地免费开服+异地远程联机（免VPS）](填入您的视频链接)

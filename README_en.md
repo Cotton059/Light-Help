@@ -52,6 +52,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 ```
 ---
 ## 📑 Video Tutorials Navigation
+- [▶️ Palworld Server Setup Tutorial](#️-lightspeed-sharing-yt-video-tutorial-palworld-server-setup-tutorial-free-local-windows-hosting--remote-co-op-no-vps-needed)
 - [▶️ Block iOS Silent Updates in 30s](#️-lightspeed-sharing-yt-video-tutorial-block-ios-silent-updates-in-30s-keep-your-iphone-at-its-sweet-spot)
 - [▶️ PowerShell 1-Click Guide (Win/Mac/Linux)](#️-lightspeed-sharing-yt-video-tutorial-powershell-1-click-guide-elevate-fix--setup)
 - [▶️ Windows Ultimate RAM Rescue](#️-lightspeed-sharing-yt-video-tutorial-windows-1110-ultimate-ram-rescue-one-line-of-code-to-1-click-free-up-ram-make-your-pc-fly)
@@ -61,6 +62,37 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 - [▶️ Deep Windows Cleanup](#️-lightspeed-sharing-yt-video-tutorial-one-line-deep-windows-cleanup-no-software-needed-free-up-massive-space)
 - [▶️ Free Home Theater Setup](#️-lightspeed-sharing-yt-video-tutorial-free-home-theater-setup--no-nas-needed-auto-poster-wall--multi-device-playback-on-one-pc)
 - [▶️ iPhone to Windows Wireless Transfer](#️-lightspeed-sharing-yt-video-tutorial-wirelessly-transfer-iphone-photos--videos-to-windows-without-any-software)
+---
+
+#### ▶️ Lightspeed Sharing (YT) Video Tutorial: [Palworld Server Setup Tutorial: Free Local Windows Hosting + Remote Co-op (No VPS Needed)](YOUR_VIDEO_URL_HERE)
+
+<a href="YOUR_VIDEO_URL_HERE" target="_blank">
+  <img src="images/023-1920-en.png" width="320" style="border-radius: 8px;" alt="Video Cover" title="Click to Play Video" />
+</a>
+
+### 🐾 1. 1-Click Install PalServer (Palworld Server)
+> **Tip:** Automatically download and configure the Palworld server, helping you quickly launch your exclusive dedicated server on your local Windows PC.
+
+```powershell
+
+```
+
+
+### 🧩 2. 1-Click Install Runtime Dependencies
+> **Tip:** If you experience crashes, missing DLL files, or environment errors during server startup, run this command to automatically install all required system runtimes and dependencies in one click.
+
+```powershell
+
+```
+
+### 🌐 3. 1-Click Remote Virtual Network Setup (No Public IP/VPS Required)
+> **Tip:** Tip: Designed specifically for players without a public IP. Create a virtual local area network in one click, allowing distant friends to join your game seamlessly by simply entering an IP address to connect to your local PC.
+
+```powershell
+
+```
+
+
 ---
 #### ▶️ Lightspeed Sharing (YT) Video Tutorial: [Block iOS Silent Updates in 30s: Keep Your iPhone at Its Sweet Spot](https://youtu.be/fbivyM2gaIM)
 

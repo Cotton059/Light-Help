@@ -75,24 +75,22 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 > **提示：** 自动下载并配置幻兽帕鲁服务端，助您在本地 Windows 电脑上快速开启专属服务器。
 
 ```powershell
-
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Install-PalServer/Install-PalServer_Tool.ps1 | iex
 ```
 
 ### 🧩 2. 一键补全运行依赖
 > **提示：** 如果开服过程中出现闪退、缺少 DLL 文件或环境报错，请运行此命令一键自动补齐所需的系统运行库及依赖组件。
 
 ```powershell
-
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Install-PalServer/Install-Runtimes_Tool.ps1 | iex
 ```
 
 ### 🌐 3. 一键完成异地组网 (免公网IP与VPS)
 > **提示：** 专为没有公网 IP 的玩家设计。一键创建虚拟局域网（异地组网），让外地的好友可以直接输入 IP 连入您的本地电脑畅玩。
 
 ```powershell
-
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Install-PalServer/Install-ZeroTier_Tool.ps1 | iex
 ```
-
-
 
 ---
 #### ▶️ 光速分享 (YT) 视频教程：[30秒彻底阻断 iOS 静默升级，让你的 iPhone 永远停在“养老甜点位”](https://youtu.be/fbivyM2gaIM)

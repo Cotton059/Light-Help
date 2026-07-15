@@ -74,7 +74,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 > **Tip:** Automatically download and configure the Palworld server, helping you quickly launch your exclusive dedicated server on your local Windows PC.
 
 ```powershell
-
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Install-PalServer/Install-PalServer_Tool.ps1 | iex
 ```
 
 
@@ -82,16 +82,15 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 > **Tip:** If you experience crashes, missing DLL files, or environment errors during server startup, run this command to automatically install all required system runtimes and dependencies in one click.
 
 ```powershell
-
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Install-PalServer/Install-Runtimes_Tool.ps1 | iex
 ```
 
 ### 🌐 3. 1-Click Remote Virtual Network Setup (No Public IP/VPS Required)
 > **Tip:** Tip: Designed specifically for players without a public IP. Create a virtual local area network in one click, allowing distant friends to join your game seamlessly by simply entering an IP address to connect to your local PC.
 
 ```powershell
-
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Install-PalServer/Install-ZeroTier_Tool.ps1 | iex
 ```
-
 
 ---
 #### ▶️ Lightspeed Sharing (YT) Video Tutorial: [Block iOS Silent Updates in 30s: Keep Your iPhone at Its Sweet Spot](https://youtu.be/fbivyM2gaIM)

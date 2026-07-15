@@ -52,6 +52,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 ---
 
 ## 📑 视频教程导航
+- [▶️ 幻兽帕鲁服务器搭建教程](#️-光速分享-yt-视频教程幻兽帕鲁服务器搭建教程windows本地免费开服异地远程联机免vps)
 - [▶️ 30秒彻底阻断 iOS 静默升级](#️-光速分享-yt-视频教程30秒彻底阻断-ios-静默升级让你的-iphone-永远停在养老甜点位)
 - [▶️ PowerShell 终极运行指南 (Win/Mac/Linux)](#️-光速分享-yt-视频教程powershell-脚本终极运行指南提权修复与全平台配置)
 - [▶️ Windows 内存终极拯救](#️-光速分享-yt-视频教程windows-1110-内存终极拯救一行代码一键释放-ram让电脑瞬间起飞)
@@ -62,6 +63,21 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 - [▶️ 免费家庭影院搭建教程｜无需NAS](#️-光速分享-yt-视频教程免费家庭影院搭建教程无需nas一台电脑实现自动海报墙--全设备播放)
 - [▶️ iPhone照片视频无线传输到Windows](#️-光速分享-yt-视频教程iphone照片视频无线传输到windows无需任何软件)
 
+---
+
+---
+#### ▶️ 光速分享 (YT) 视频教程：[幻兽帕鲁服务器搭建教程：Windows本地免费开服+异地远程联机（免VPS）](填入您的视频链接)
+
+<a href="填入您的视频链接" target="_blank">
+  <img src="images/023-1920-zh.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />
+</a>
+
+### 🐾 1. 一键安装 PalServer (幻兽帕鲁服务端)
+> **提示：** 自动下载并配置幻兽帕鲁服务端，助您在本地 Windows 电脑上快速开启专属服务器。
+
+```powershell
+
+```
 ---
 #### ▶️ 光速分享 (YT) 视频教程：[30秒彻底阻断 iOS 静默升级，让你的 iPhone 永远停在“养老甜点位”](https://youtu.be/fbivyM2gaIM)
 

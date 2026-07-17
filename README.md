@@ -65,9 +65,9 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 
 
 ---
-#### ▶️ 光速分享 (YT) 视频教程：[幻兽帕鲁服务器搭建教程：Windows本地免费开服+异地远程联机（免VPS）](填入您的视频链接)
+#### ▶️ 光速分享 (YT) 视频教程：[幻兽帕鲁服务器搭建教程：Windows本地免费开服+异地远程联机（免VPS）](https://youtu.be/AzWFieZXsFc)
 
-<a href="填入您的视频链接" target="_blank">
+<a href="https://youtu.be/AzWFieZXsFc" target="_blank">
   <img src="images/023-1920-zh.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />
 </a>
 

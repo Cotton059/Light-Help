@@ -64,9 +64,9 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 - [▶️ iPhone to Windows Wireless Transfer](#️-lightspeed-sharing-yt-video-tutorial-wirelessly-transfer-iphone-photos--videos-to-windows-without-any-software)
 ---
 
-#### ▶️ Lightspeed Sharing (YT) Video Tutorial: [Palworld Server Setup Tutorial: Free Local Windows Hosting + Remote Co-op (No VPS Needed)](YOUR_VIDEO_URL_HERE)
+#### ▶️ Lightspeed Sharing (YT) Video Tutorial: [Palworld Server Setup Tutorial: Free Local Windows Hosting + Remote Co-op (No VPS Needed)](https://youtu.be/AzWFieZXsFc)
 
-<a href="YOUR_VIDEO_URL_HERE" target="_blank">
+<a href="https://youtu.be/AzWFieZXsFc" target="_blank">
   <img src="images/023-1920-en.png" width="320" style="border-radius: 8px;" alt="Video Cover" title="Click to Play Video" />
 </a>
 

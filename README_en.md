@@ -74,6 +74,9 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 ### 🐾 1-Click Run Shortcut Generator
 > **Tip:** Run the shortcut generator tool. Simply input the one-line execution command of any GitHub script to 1-click generate a desktop shortcut with administrator privileges, allowing direct execution without installation.
 
+```powershell
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/ShortcutGen/ShortcutGen_Tool.ps1 | iex
+```
 ---
 #### ▶️ Lightspeed Sharing (YT) Video Tutorial: [Palworld Server Setup Tutorial: Free Local Windows Hosting + Remote Co-op (No VPS Needed)](https://youtu.be/AzWFieZXsFc)
 

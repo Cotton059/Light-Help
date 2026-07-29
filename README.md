@@ -71,7 +71,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
   <img src="images/025-1920-tw.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />
 </a>
 
-### 🐾 1. 一键运行 Shortcut Generator (快捷方式生成器)
+### 🐾 一键运行 Shortcut Generator (快捷方式生成器)
 > **提示：** 自动下载并运行快捷方式生成工具，只需输入任意 GitHub 脚本的单行运行命令，即可在桌面一键生成带有管理员权限的快捷方式，实现免安装直接运行。
 
 ---

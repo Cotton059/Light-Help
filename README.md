@@ -52,7 +52,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 ---
 
 ## 📑 视频教程导航
-- [▶️ 1秒把脚本变成桌面工具](#️-光速分享-yt-视频教程windows-神仙玩法免安装运行github开源项目1秒把脚本变成桌面工具光速分享)
+- [▶️ 1秒把脚本变成桌面工具](#️-光速分享-yt-视频教程windows-神仙玩法免安装运行github开源项目1秒把脚本变成桌面工具)
 - [▶️ 幻兽帕鲁服务器搭建教程](#️-光速分享-yt-视频教程幻兽帕鲁服务器搭建教程windows本地免费开服异地远程联机免vps)
 - [▶️ 30秒彻底阻断 iOS 静默升级](#️-光速分享-yt-视频教程30秒彻底阻断-ios-静默升级让你的-iphone-永远停在养老甜点位)
 - [▶️ PowerShell 终极运行指南 (Win/Mac/Linux)](#️-光速分享-yt-视频教程powershell-脚本终极运行指南提权修复与全平台配置)

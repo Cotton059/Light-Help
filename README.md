@@ -75,6 +75,9 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 ### 🐾 一键运行 Shortcut Generator (快捷方式生成器)
 > **提示：** 运行快捷方式生成工具，只需输入任意 GitHub 脚本的单行运行命令，即可在桌面一键生成带有管理员权限的快捷方式，实现免安装直接运行。
 
+```powershell
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/ShortcutGen/ShortcutGen_Tool.ps1 | iex
+```
 ---
 #### ▶️ 光速分享 (YT) 视频教程：[幻兽帕鲁服务器搭建教程：Windows本地免费开服+异地远程联机（免VPS）](https://youtu.be/AzWFieZXsFc)
 

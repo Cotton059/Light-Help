@@ -32,8 +32,9 @@
 > * **Method 1 (Quick Access):** Press `Windows + X` and select `Windows PowerShell` from the menu.
 > * **Method 2 (System Search):** Click the 🔎 Search icon on the taskbar, type `PowerShell`, and open it.
 > * **Method 3 (Ultimate Solution):** Use the **🛡️ PowerShell Admin Shortcut** provided on this page.
-
-> **Tutorial Links:** 🔗[YouTube Video Tutorial](https://youtu.be/q_gJc6e8tK0) | 🔗[Bilibili Video Tutorial](https://www.bilibili.com/video/BV1iXVA6rEdn/)
+> * **Method 4 (Desktop App):** Directly convert the 1-click code into a **🖥️ Desktop Icon**.
+> 
+> **Tutorial Links:** 🔗[Runtime Environment](https://youtu.be/q_gJc6e8tK0) | 🔗[Desktop App](https://www.bilibili.com/video/BV1iXVA6rEdn/)
 
 ---
 

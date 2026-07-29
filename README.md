@@ -32,8 +32,9 @@
 > * **方式一（快捷访问）：** 按下键盘组合键 `Windows + X`，在弹出的菜单中选择 `Windows PowerShell`。
 > * **方式二（系统搜索）：** 点击桌面任务栏的 🔎 搜索图标，输入 `PowerShell` 并点击打开。
 > * **方式三（终极方案）：** 使用本页提供的 **🛡️ PowerShell 管理员快捷方式**。
+> * **方式四（桌面应用）：** 直接将一键代码转化为 **🖥️ 桌面图标**。
 > 
-> **教程链接：** 🔗[YouTube 视频教程](https://youtu.be/q_gJc6e8tK0) | 🔗[Bilibili 视频教程](https://www.bilibili.com/video/BV1iXVA6rEdn/)
+> **教程链接：** 🔗[运行环境](https://youtu.be/q_gJc6e8tK0) | 🔗[桌面应用](https://www.bilibili.com/video/BV1iXVA6rEdn/)
 ---
 
 ### 🔗 仓库Light-help快捷方式

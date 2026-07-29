@@ -52,6 +52,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 ```
 ---
 ## 📑 Video Tutorials Navigation
+- [▶️ 1-Sec Script to Desktop App](#️-lightspeed-sharing-yt-video-tutorial-windows-god-mode-1-sec-zero-install-github-scripts-to-desktop-apps)
 - [▶️ Palworld Server Setup Tutorial](#️-lightspeed-sharing-yt-video-tutorial-palworld-server-setup-tutorial-free-local-windows-hosting--remote-co-op-no-vps-needed)
 - [▶️ Block iOS Silent Updates in 30s](#️-lightspeed-sharing-yt-video-tutorial-block-ios-silent-updates-in-30s-keep-your-iphone-at-its-sweet-spot)
 - [▶️ PowerShell 1-Click Guide (Win/Mac/Linux)](#️-lightspeed-sharing-yt-video-tutorial-powershell-1-click-guide-elevate-fix--setup)
@@ -63,7 +64,16 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 - [▶️ Free Home Theater Setup](#️-lightspeed-sharing-yt-video-tutorial-free-home-theater-setup--no-nas-needed-auto-poster-wall--multi-device-playback-on-one-pc)
 - [▶️ iPhone to Windows Wireless Transfer](#️-lightspeed-sharing-yt-video-tutorial-wirelessly-transfer-iphone-photos--videos-to-windows-without-any-software)
 ---
+#### ▶️ Lightspeed Sharing (YT) Video Tutorial: [Windows God Mode: 1-Sec Zero-Install GitHub Scripts to Desktop Apps!](https://youtu.be/Replace_with_your_YouTube_video_link)
 
+<a href="https://youtu.be/Replace_with_your_YouTube_video_link" target="_blank">
+  <img src="images/025-1920-en.png" width="320" style="border-radius: 8px;" alt="Video Cover" title="Click to Play Video" />
+</a>
+
+### 🐾 1-Click Run Shortcut Generator
+> **Tip:** Run the shortcut generator tool. Simply input the one-line execution command of any GitHub script to 1-click generate a desktop shortcut with administrator privileges, allowing direct execution without installation.
+
+---
 #### ▶️ Lightspeed Sharing (YT) Video Tutorial: [Palworld Server Setup Tutorial: Free Local Windows Hosting + Remote Co-op (No VPS Needed)](https://youtu.be/AzWFieZXsFc)
 
 <a href="https://youtu.be/AzWFieZXsFc" target="_blank">

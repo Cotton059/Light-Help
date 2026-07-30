@@ -34,7 +34,7 @@
 > * **Method 3 (Ultimate Solution):** Use the **🛡️ PowerShell Admin Shortcut** provided on this page.
 > * **Method 4 (Desktop App):** Directly convert the 1-click code into a **🖥️ Desktop Icon**.
 > 
-> **Tutorial Links:** 🔗[Runtime Environment](https://youtu.be/q_gJc6e8tK0) | 🔗[Desktop App](https://www.bilibili.com/video/BV1iXVA6rEdn/)
+> **Tutorial Links:** 🔗[Runtime Environment](https://youtu.be/q_gJc6e8tK0) | 🔗[Desktop App](https://youtu.be/d25it0peYKk)
 
 ---
 
@@ -65,9 +65,9 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 - [▶️ Free Home Theater Setup](#️-lightspeed-sharing-yt-video-tutorial-free-home-theater-setup--no-nas-needed-auto-poster-wall--multi-device-playback-on-one-pc)
 - [▶️ iPhone to Windows Wireless Transfer](#️-lightspeed-sharing-yt-video-tutorial-wirelessly-transfer-iphone-photos--videos-to-windows-without-any-software)
 ---
-#### ▶️ Lightspeed Sharing (YT) Video Tutorial: [Windows God Mode: 1-Sec Zero-Install GitHub Scripts to Desktop Apps!](https://youtu.be/Replace_with_your_YouTube_video_link)
+#### ▶️ Lightspeed Sharing (YT) Video Tutorial: [Windows God Mode: 1-Sec Zero-Install GitHub Scripts to Desktop Apps!](https://youtu.be/d25it0peYKk)
 
-<a href="https://youtu.be/Replace_with_your_YouTube_video_link" target="_blank">
+<a href="https://youtu.be/d25it0peYKk" target="_blank">
   <img src="images/025-1920-en.png" width="320" style="border-radius: 8px;" alt="Video Cover" title="Click to Play Video" />
 </a>
 

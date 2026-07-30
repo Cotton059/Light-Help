@@ -34,7 +34,7 @@
 > * **方式三（专业方案）：** 使用本页提供的 **🛡️ PowerShell 管理员快捷方式**。
 > * **方式四（桌面应用）：** 直接将一键代码转化为 **🖥️ 桌面图标**。
 > 
-> **教程链接：** 🔗[运行环境](https://youtu.be/q_gJc6e8tK0) | 🔗[桌面应用](https://www.bilibili.com/video/BV1iXVA6rEdn/)
+> **教程链接：** 🔗[运行环境](https://youtu.be/q_gJc6e8tK0) | 🔗[桌面应用](https://youtu.be/d25it0peYKk)
 ---
 
 ### 🔗 仓库Light-help快捷方式
@@ -66,9 +66,9 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 - [▶️ iPhone照片视频无线传输到Windows](#️-光速分享-yt-视频教程iphone照片视频无线传输到windows无需任何软件)
 
 ---
-#### ▶️ 光速分享 (YT) 视频教程：[Windows 神仙玩法：免安装运行GitHub开源项目，1秒把脚本变成桌面工具！](https://youtu.be/替换为你的YouTube视频链接)
+#### ▶️ 光速分享 (YT) 视频教程：[Windows 神仙玩法：免安装运行GitHub开源项目，1秒把脚本变成桌面工具！](https://youtu.be/d25it0peYKk)
 
-<a href="https://youtu.be/替换为你的YouTube视频链接" target="_blank">
+<a href="https://youtu.be/d25it0peYKk" target="_blank">
   <img src="images/025-1920-tw.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />
 </a>
 

@@ -81,7 +81,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 > **提示：** 仅需1次运行Powershell,即可在桌面生成快捷方式生成工具，完成开源云应用安装。本脚本可以清理任意磁盘的产生的缓存类垃圾文件
 
 ```powershell
-
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/DeepCleanPRO/DeepCleanPRO_Desktop.ps1 | iex
 ```
 
 ---

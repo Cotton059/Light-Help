@@ -79,7 +79,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 > **Tip:** Simply run PowerShell once to generate a shortcut tool on your desktop and complete the open-source cloud app installation. This script can clean up cache junk files generated on any disk.
 
 ```powershell
-
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/DeepCleanPRO/DeepCleanPRO_Desktop.ps1 | iex
 ```
 ---
 #### ▶️ Lightspeed Sharing (YT) Video Tutorial: [Windows God Mode: 1-Sec Zero-Install GitHub Scripts to Desktop Apps!](https://youtu.be/d25it0peYKk)

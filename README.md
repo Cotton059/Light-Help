@@ -57,6 +57,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 ---
 
 ## 📑 视频教程导航
+- [▶️ 深度清理Windows“DeepCleanPRO”](#️-光速分享-yt-视频教程一行代码深度清理-windows无需安装软件一键释放巨量系统空间)
 - [▶️ 1秒把脚本变成桌面工具](#️-光速分享-yt-视频教程windows-神仙玩法免安装运行github开源项目1秒把脚本变成桌面工具)
 - [▶️ 幻兽帕鲁服务器搭建教程](#️-光速分享-yt-视频教程幻兽帕鲁服务器搭建教程windows本地免费开服异地远程联机免vps)
 - [▶️ 30秒彻底阻断 iOS 静默升级](#️-光速分享-yt-视频教程30秒彻底阻断-ios-静默升级让你的-iphone-永远停在养老甜点位)
@@ -68,6 +69,20 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 - [▶️ 一行代码深度清理 Windows！](#️-光速分享-yt-视频教程一行代码深度清理-windows无需安装软件一键释放巨量系统空间)
 - [▶️ 免费家庭影院搭建教程｜无需NAS](#️-光速分享-yt-视频教程免费家庭影院搭建教程无需nas一台电脑实现自动海报墙--全设备播放)
 - [▶️ iPhone照片视频无线传输到Windows](#️-光速分享-yt-视频教程iphone照片视频无线传输到windows无需任何软件)
+
+---
+#### ▶️ 光速分享 (YT) 视频教程：[一行代码深度清理 Windows！无需安装软件，一键释放巨量系统空间](YOUR_VIDEO_LINK_HERE)
+
+<a href="YOUR_VIDEO_LINK_HERE" target="_blank">
+  <img src="images/028-1920-tw.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />
+</a>
+
+### 🐾 一键运行 DeepCleanPRO (深度清理工具)
+> **提示：** 仅需1次运行Powershell,即可在桌面生成快捷方式生成工具，完成开源云应用安装。本脚本可以清理任意磁盘的产生的缓存类垃圾文件
+
+```powershell
+
+```
 
 ---
 #### ▶️ 光速分享 (YT) 视频教程：[Windows 神仙玩法：免安装运行GitHub开源项目，1秒把脚本变成桌面工具！](https://youtu.be/d25it0peYKk)

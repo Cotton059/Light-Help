@@ -13,9 +13,12 @@
 [![zh-cn](https://img.shields.io/badge/lang-zh--cn-blue.svg)](README.md)
 ---
 ### 🛡️ Official Guidelines
-> **Official Channel:** Dedicated to simplifying complex PC tasks. Ensure you are following the official **Lightspeed Sharing (YT)** channel.
-> **Secure & Transparent:** Our core code is 100% open-source and open for community review. Feel free to inspect it before running.
-> **Exclusive Resources:** All scripts in this repository are tailor-made companions for video tutorials on the **YouTube - Lightspeed Sharing** channel.
+> **Official Channel:** Dedicated to simplifying complex PC tasks. Ensure you are following the official **Lightspeed Sharing (YT)** channel.<br>
+> **Secure & Transparent:** Our core code is 100% open-source and open for community review. Feel free to inspect it before running.<br>
+> **Exclusive Resources:** All scripts in this repository are tailor-made companions for video tutorials on the **YouTube - Lightspeed Sharing** channel.<br>
+> **Time-Limited Verification:** For newly released videos, scripts will require an invitation code to run until specific traffic or time milestones are met.<br>
+> **Get an Invite:** You can request a code in the comments section after completing any form of interaction, such as subscribing, liking, or sharing.<br>
+> **Bypass Verification:** You can fork this project to modify the code yourself, help the video reach its traffic goals, or wait 7-14 days after publication for the restriction to automatically lift.
 ---
 
 ### 🙋‍♂️ Co-Create the Channel

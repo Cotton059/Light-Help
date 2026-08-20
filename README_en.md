@@ -56,6 +56,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 ```
 ---
 ## 📑 Video Tutorials Navigation
+- [▶️ Deep Clean Windows "DeepCleanPRO"](#️-lightspeed-sharing-yt-video-tutorial-one-line-deep-windows-cleanup-no-software-needed-1-click-free-up-massive-system-space)
 - [▶️ 1-Sec Script to Desktop App](#️-lightspeed-sharing-yt-video-tutorial-windows-god-mode-1-sec-zero-install-github-scripts-to-desktop-apps)
 - [▶️ Palworld Server Setup Tutorial](#️-lightspeed-sharing-yt-video-tutorial-palworld-server-setup-tutorial-free-local-windows-hosting--remote-co-op-no-vps-needed)
 - [▶️ Block iOS Silent Updates in 30s](#️-lightspeed-sharing-yt-video-tutorial-block-ios-silent-updates-in-30s-keep-your-iphone-at-its-sweet-spot)
@@ -67,6 +68,19 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 - [▶️ Deep Windows Cleanup](#️-lightspeed-sharing-yt-video-tutorial-one-line-deep-windows-cleanup-no-software-needed-free-up-massive-space)
 - [▶️ Free Home Theater Setup](#️-lightspeed-sharing-yt-video-tutorial-free-home-theater-setup--no-nas-needed-auto-poster-wall--multi-device-playback-on-one-pc)
 - [▶️ iPhone to Windows Wireless Transfer](#️-lightspeed-sharing-yt-video-tutorial-wirelessly-transfer-iphone-photos--videos-to-windows-without-any-software)
+---
+#### ▶️ Lightspeed Sharing (YT) Video Tutorial: [One-Line Deep Windows Cleanup! No Software Needed, 1-Click Free Up Massive System Space](YOUR_VIDEO_LINK_HERE)
+
+<a href="YOUR_VIDEO_LINK_HERE" target="_blank">
+  <img src="images/028-1920-en.png" width="320" style="border-radius: 8px;" alt="Video Cover" title="Click to Play Video" />
+</a>
+
+### 🐾 1-Click Run DeepCleanPRO
+> **Tip:** Simply run PowerShell once to generate a shortcut tool on your desktop and complete the open-source cloud app installation. This script can clean up cache junk files generated on any disk.
+
+```powershell
+
+```
 ---
 #### ▶️ Lightspeed Sharing (YT) Video Tutorial: [Windows God Mode: 1-Sec Zero-Install GitHub Scripts to Desktop Apps!](https://youtu.be/d25it0peYKk)
 

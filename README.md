@@ -57,7 +57,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 ---
 
 ## 📑 视频教程导航
-- [▶️ 深度清理Windows“DeepCleanPRO”](#️-光速分享-yt-视频教程一行代码深度清理-windows无需安装软件一键释放巨量系统空间)
+- [▶️ 深度清理Windows“DeepCleanPRO”](#️-光速分享-yt-视频教程深度清理-windows云端开源软件一键释放巨量系统空间)
 - [▶️ 1秒把脚本变成桌面工具](#️-光速分享-yt-视频教程windows-神仙玩法免安装运行github开源项目1秒把脚本变成桌面工具)
 - [▶️ 幻兽帕鲁服务器搭建教程](#️-光速分享-yt-视频教程幻兽帕鲁服务器搭建教程windows本地免费开服异地远程联机免vps)
 - [▶️ 30秒彻底阻断 iOS 静默升级](#️-光速分享-yt-视频教程30秒彻底阻断-ios-静默升级让你的-iphone-永远停在养老甜点位)
@@ -71,7 +71,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 - [▶️ iPhone照片视频无线传输到Windows](#️-光速分享-yt-视频教程iphone照片视频无线传输到windows无需任何软件)
 
 ---
-#### ▶️ 光速分享 (YT) 视频教程：[一行代码深度清理 Windows！无需安装软件，一键释放巨量系统空间](https://youtu.be/fxnSjtn_GmE)
+#### ▶️ 光速分享 (YT) 视频教程：[深度清理 Windows！云端开源软件，一键释放巨量系统空间](https://youtu.be/fxnSjtn_GmE)
 
 <a href="https://youtu.be/fxnSjtn_GmE" target="_blank">
   <img src="images/028-1920-tw.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />

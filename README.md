@@ -248,13 +248,11 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/AppBackup_
 ### ☢️ 极致清理版
 > **警告：** 清空所有用户级缓存，可能导致部分云服务软件需要重新同步到本地
 ```powershell
-
 iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/DeepClean/DeepClean_Tool.ps1 | iex
 ```
 ### 🛡️ v8.0 平衡保护版
 > **提示：** 在释放空间的同时，提供智能数据隔离保护，如果您不喜欢极客风格，可以使用它
 ```powershell
-
 iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/DeepClean/DeepClean_v8.0_Tool.ps1 | iex
 ```
 

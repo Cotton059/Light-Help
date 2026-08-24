@@ -228,8 +228,7 @@ https://github.com/Cotton059/Light-Help/raw/refs/heads/main/ThirdParty/maboloshi
 ### 💿 App Data Backup/Restore
 > **Tip:** Backs up the entire Users directory, including 🆗AppData🆗Downloads🆗Pictures🆗Documents🆗
 ```powershell
-
-iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/AppBackup_Tool.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/AppBackup/AppBackup_Tool.ps1 | iex
 ```
 
 

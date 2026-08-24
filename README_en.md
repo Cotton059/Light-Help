@@ -264,7 +264,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/DeepClean_
 > **Tip:** Quickly configure your LAN sharing environment. This auto-creates a network shared folder and enables low-level SMB services for efficient cross-device access and file transfer.
 
 ```powershell
-iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/SMB_Share_Tool.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/SMB_Share/SMB_Share_Tool.ps1 | iex
 ```
 
 ### 📡 Get System Username & Local IP
@@ -300,7 +300,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/Win1011Aut
 > **Tip:** Quickly configure your LAN sharing environment. This auto-creates a network shared folder and enables low-level SMB services for efficient cross-device access and file transfer.
 
 ```powershell
-iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/SMB_Share_Tool.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/SMB_Share/SMB_Share_Tool.ps1 | iex
 ```
 
 ---

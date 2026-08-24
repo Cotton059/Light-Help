@@ -243,14 +243,12 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/AppBackup_
 ### ☢️ Extreme Cleanup Edition
 > **Warning:** Clears all user-level caches. Some cloud services may need to re-sync locally.
 ```powershell
-
-iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/DeepClean_Tool.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/DeepClean/DeepClean_Tool.ps1 | iex
 ```
 ### 🛡️ v8.0 Balanced Protection Edition
 > **Tip:** Frees up space while offering smart data isolation protection. Use this if you prefer a non-geek style.
 ```powershell
-
-iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/DeepClean_v8.0_Tool.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/DeepClean/DeepClean_v8.0_Tool.ps1 | iex
 ```
 
 ---

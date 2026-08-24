@@ -271,21 +271,21 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/SMB_
 > **Tip:** 1-click extract your current login username and LAN IPv4 address, providing key parameters for Remote Desktop, LAN sharing, or network debugging.
 
 ```powershell
-iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/GetInfo.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/SysOps/GetInfo.ps1 | iex
 ```
 
 ### 🔑 Force Change or Create PC Password
 > **Tip:** Bypass tedious system settings. Use commands to quickly reset or create a brand-new secure login password for your local account directly.
 
 ```powershell
-iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/ResetPass.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/SysOps/ResetPass.ps1 | iex
 ```
 
 ### 🔓 Set Auto-Login (Passwordless)
 > **Tip:** Auto-configure low-level login credentials to skip the lock screen and boot directly to the desktop, greatly boosting startup efficiency for personal devices.
 
 ```powershell
-iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/Win1011AutoLogin.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/SysOps/Win1011AutoLogin.ps1 | iex
 ```
 
 ---

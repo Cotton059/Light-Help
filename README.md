@@ -233,8 +233,7 @@ https://github.com/Cotton059/Light-Help/raw/refs/heads/main/ThirdParty/maboloshi
 ### 💿 软件数据备份/恢复
 > **提示：** 将备份整个Users目录，包含🆗AppData🆗下载🆗图片🆗文档🆗
 ```powershell
-
-iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/AppBackup_Tool.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/AppBackup/AppBackup_Tool.ps1 | iex
 ```
 
 

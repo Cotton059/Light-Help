@@ -269,7 +269,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/DeepClean_
 > **提示：** 此操作将帮助您快速配置局域网共享环境，自动创建网络共享文件夹并开启系统底层 SMB 服务，实现多设备间的高效访问与互传。
 
 ```powershell
-iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/SMB_Share_Tool.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/SMB_Share/SMB_Share_Tool.ps1 | iex
 ```
 
 ### 📡 获取系统用户名与内网 IP
@@ -305,9 +305,8 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/Win1011Aut
 > **提示：** 此操作将帮助您快速配置局域网共享环境，自动创建网络共享文件夹并开启系统底层 SMB 服务，实现多设备间的高效访问与互传。
 
 ```powershell
-iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/SMB_Share_Tool.ps1 | iex
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/SMB_Share/SMB_Share_Tool.ps1 | iex
 ```
-
 ---
 
 

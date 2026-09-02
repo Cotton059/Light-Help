@@ -57,6 +57,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 ---
 
 ## 📑 视频教程导航
+- [▶️ 一键双开/多开任意软件游戏](#️-光速分享-yt-视频教程任意-pc-游戏与电脑软件一键双开多开一行代码完全免安装独立环境无限多开告别臃肿沙盒)
 - [▶️ 深度清理Windows“DeepCleanPRO”](#️-光速分享-yt-视频教程深度清理-windows云端开源软件一键释放巨量系统空间)
 - [▶️ 1秒把脚本变成桌面工具](#️-光速分享-yt-视频教程windows-神仙玩法免安装运行github开源项目1秒把脚本变成桌面工具)
 - [▶️ 幻兽帕鲁服务器搭建教程](#️-光速分享-yt-视频教程幻兽帕鲁服务器搭建教程windows本地免费开服异地远程联机免vps)
@@ -70,6 +71,23 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 - [▶️ 免费家庭影院搭建教程｜无需NAS](#️-光速分享-yt-视频教程免费家庭影院搭建教程无需nas一台电脑实现自动海报墙--全设备播放)
 - [▶️ iPhone照片视频无线传输到Windows](#️-光速分享-yt-视频教程iphone照片视频无线传输到windows无需任何软件)
 
+---
+#### ▶️ 光速分享 (YT) 视频教程：[任意 PC 游戏与电脑软件一键双开/多开！一行代码完全免安装，独立环境无限多开告别臃肿沙盒](YOUR_YOUTUBE_LINK)
+
+<a href="YOUR_YOUTUBE_LINK" target="_blank">
+  <img src="images/029-1920-tw.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />
+</a>
+
+### 🐾 一键运行 MultiInstance (多开工具)
+> **提示：** 仅需1次运行Powershell,即可在桌面生成快捷方式生成工具，实现任意软件和游戏的独立环境多开。
+
+```powershell
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/MultiInstance/MultiInstance_Desktop.ps1 | iex
+```
+> **备用代码：** 若系统安全限制导致桌面快捷方式运行失败，请尝试使用此备用代码。该版本具有更广的环境兼容性，每次需要多开时均需手动复制执行此命令。
+```powershell
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/MultiInstance/MultiInstance_Tool.ps1 | iex
+```
 ---
 #### ▶️ 光速分享 (YT) 视频教程：[深度清理 Windows！云端开源软件，一键释放巨量系统空间](https://youtu.be/fxnSjtn_GmE)
 

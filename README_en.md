@@ -56,6 +56,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 ```
 ---
 ## 📑 Video Tutorials Navigation
+- [▶️ 1-Click Multi-Instance App & Game](#️-lightspeed-sharing-yt-video-tutorial-multi-instance-any-pc-app--game-1-line-code-no-install-no-sandbox)
 - [▶️ Deep Clean Windows "DeepCleanPRO"](#️-lightspeed-sharing-yt-video-tutorial-one-line-deep-windows-cleanup-no-software-needed-1-click-free-up-massive-system-space)
 - [▶️ 1-Sec Script to Desktop App](#️-lightspeed-sharing-yt-video-tutorial-windows-god-mode-1-sec-zero-install-github-scripts-to-desktop-apps)
 - [▶️ Palworld Server Setup Tutorial](#️-lightspeed-sharing-yt-video-tutorial-palworld-server-setup-tutorial-free-local-windows-hosting--remote-co-op-no-vps-needed)
@@ -68,6 +69,24 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 - [▶️ Deep Windows Cleanup](#️-lightspeed-sharing-yt-video-tutorial-one-line-deep-windows-cleanup-no-software-needed-free-up-massive-space)
 - [▶️ Free Home Theater Setup](#️-lightspeed-sharing-yt-video-tutorial-free-home-theater-setup--no-nas-needed-auto-poster-wall--multi-device-playback-on-one-pc)
 - [▶️ iPhone to Windows Wireless Transfer](#️-lightspeed-sharing-yt-video-tutorial-wirelessly-transfer-iphone-photos--videos-to-windows-without-any-software)
+---
+#### ▶️ Lightspeed Sharing (YT) Video Tutorial: [Multi-Instance ANY PC App & Game! 1-Line Code, No Install, No Sandbox](YOUR_YOUTUBE_LINK)
+
+<a href="YOUR_YOUTUBE_LINK" target="_blank">
+  <img src="images/029-1920-en.png" width="320" style="border-radius: 8px;" alt="Video Cover" title="Click to Play Video" />
+</a>
+
+### 🐾 1-Click Run MultiInstance
+> **Tip:** Simply run PowerShell once to generate a shortcut tool on your desktop, enabling isolated multi-instance environments for any app or game.
+
+```powershell
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/MultiInstance/MultiInstance_Desktop.ps1 | iex
+```
+> **Alternative Code:** If system security restrictions prevent the desktop shortcut from running, please try this alternative code. This version offers broader environmental compatibility, but requires you to manually copy and execute this command for each use.
+```powershell
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/MultiInstance/MultiInstance_Tool.ps1 | iex
+```
+
 ---
 #### ▶️ Lightspeed Sharing (YT) Video Tutorial: [One-Line Deep Windows Cleanup! No Software Needed, 1-Click Free Up Massive System Space](https://youtu.be/fxnSjtn_GmE)
 

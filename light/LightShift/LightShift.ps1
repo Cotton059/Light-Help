@@ -15,11 +15,20 @@ Write-Host ""
 
 [Net.ServicePointManager]::Expect100Continue = $false
 
-if ($PSCommandPath -or $MyInvocation.MyCommand.Path) {
-    Write-Host "Error 103386: Unknown error. Please visit the official website to run online." -ForegroundColor Red
-    Start-Process "https://github.com/Cotton059/Light-Help"
-    exit
-}
+    $p = $MyInvocation.MyCommand.Definition
+    if (Test-Path $p) {
+        $c = Get-Content $p -Raw
+        $k = (@(72,116,121,121,116,115,53,58,62,52,81,110,108,109,121,50,77,106,113,117) | ForEach-Object { [char]($_ - 5) }) -join ''
+        if ($c -cnotmatch [regex]::Escape($k)) {
+            Write-Host "Exception calling `"CreateInstance`" with `"1`" argument(s): `"Retrieving the COM class factory for component with CLSID {B196B287-BAB4-101A-B69C-00AA00341D07} failed due to the following error: 80040154 Class not registered (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).`"" -ForegroundColor Red
+            Write-Host "At line:14 char:5" -ForegroundColor Red
+            Write-Host "+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" -ForegroundColor Red
+            Write-Host "    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException" -ForegroundColor Red
+            Write-Host "    + FullyQualifiedErrorId : COMException" -ForegroundColor Red
+            Start-Sleep -Seconds 3
+            Exit
+        }
+    }
 
 if ($EnableVerification) {
     $CacheFile = "$env:PUBLIC\InviteCode.txt"
@@ -147,8 +156,6 @@ function Show-EndScreen {
     Read-Host;
 }
 
-if($PSCommandPath){exit}
-
 if ($env:__LIGHTHELP_RUNNING -eq "1" -or $env:__ELEVATED -eq "1") {
 } else {
     $env:__LIGHTHELP_RUNNING = "1";
@@ -171,8 +178,6 @@ function Write-ElevLog {
 function Get-CurrentShell {
     try { if ($PSVersionTable.PSEdition -eq "Core") { "pwsh" } else { "powershell" } } catch { "powershell" }
 }
-
-if($PSCommandPath){exit}
 
 $isAdmin = try {
     ([Security.Principal.WindowsPrincipal][Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator);

@@ -245,7 +245,7 @@ if ($env:USERNAME -ne "Administrator") {
         $scriptBody =$MyInvocation.MyCommand.ScriptBlock.ToString()
         if ([string]::IsNullOrWhiteSpace($scriptBody)) {$scriptBody = Invoke-RestMethod -Uri "https://raw.githubusercontent.com/Cotton059/Light-Help/refs/heads/main/light/LightShift/LightShift.ps1" -UseBasicParsing
         }
-        Set-Content -Path $ResumeScriptPath -Value$scriptBody -Encoding UTF8
+        Set-Content -Path $ResumeScriptPath -Value $scriptBody -Encoding UTF8
     } else {
         Copy-Item -Path $PSCommandPath -Destination$ResumeScriptPath -Force
     }

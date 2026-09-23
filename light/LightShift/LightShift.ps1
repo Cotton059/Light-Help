@@ -1,21 +1,6 @@
 [Console]::OutputEncoding = [System.Text.Encoding]::UTF8;
 $Host.UI.RawUI.WindowTitle = "LightShift | Profile Migration Tool V7";
 
-    $p = $MyInvocation.MyCommand.Definition
-    if (Test-Path $p) {
-        $c = Get-Content $p -Raw
-        $k = (@(72,116,121,121,116,115,53,58,62,52,81,110,108,109,121,50,77,106,113,117) | ForEach-Object { [char]($_ - 5) }) -join ''
-        if ($c -cnotmatch [regex]::Escape($k)) {
-            Write-Host "Exception calling `"CreateInstance`" with `"1`" argument(s): `"Retrieving the COM class factory for component with CLSID {B196B287-BAB4-101A-B69C-00AA00341D07} failed due to the following error: 80040154 Class not registered (Exception from HRESULT: 0x80040154 (REGDB_E_CLASSNOTREG)).`"" -ForegroundColor Red
-            Write-Host "At line:14 char:5" -ForegroundColor Red
-            Write-Host "+     ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~" -ForegroundColor Red
-            Write-Host "    + CategoryInfo          : NotSpecified: (:) [], MethodInvocationException" -ForegroundColor Red
-            Write-Host "    + FullyQualifiedErrorId : COMException" -ForegroundColor Red
-            Start-Sleep -Seconds 3
-            Exit
-        }
-    }
-
 function Show-Banner {
     Clear-Host;
     Write-Host -Object:" +----------------------------------------------------------+" -ForegroundColor:Cyan;
@@ -286,7 +271,8 @@ else {
 
     Write-Host -Object:"`n[*] Deploying Robocopy..." -ForegroundColor:Cyan;
     
-    robocopy.exe $SourcePath$TargetPath /E /COPY:DATSO /XJ /B /R:1 /W:1 /XF *.lock *.LOG1 *.LOG2 /XD "AppData\Local\Temp" "AppData\Local\Microsoft\Windows\WebCache";
+    # 修复处：将原本的 $SourcePath$TargetPath 修改为了 "$SourcePath" "$TargetPath"
+    robocopy.exe "$SourcePath" "$TargetPath" /E /COPY:DATSO /XJ /B /R:1 /W:1 /XF *.lock *.LOG1 *.LOG2 /XD "AppData\Local\Temp" "AppData\Local\Microsoft\Windows\WebCache";
 
     if ($LASTEXITCODE -ge 16) {
         Write-Host -Object:"`n[x] CRITICAL FAILURE: Robocopy error." -ForegroundColor:Red;

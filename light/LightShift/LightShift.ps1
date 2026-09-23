@@ -23,10 +23,9 @@ function Show-DynamicProgressBar {
         [string]$MemoryText
     )
     $TotalBlocks = 20;
-    $FilledBlocks = [math]::Round(($Percentage / 100) * $TotalBlocks);
-    if ($FilledBlocks -gt $TotalBlocks) { $FilledBlocks = $TotalBlocks; }
-    if ($FilledBlocks -lt 0) { $FilledBlocks = 0; }
-    $EmptyBlocks = $TotalBlocks - $FilledBlocks;
+    $FilledBlocks = [math]::Round(($Percentage / 100) *$TotalBlocks);
+    if ($FilledBlocks -gt$TotalBlocks) { $FilledBlocks =$TotalBlocks; }
+    if ($FilledBlocks -lt 0) { $FilledBlocks = 0; }$EmptyBlocks = $TotalBlocks -$FilledBlocks;
 
     $SolidBlock = [char]0x2588;
     $LightBlock = [char]0x2591;
@@ -241,8 +240,18 @@ if ($env:USERNAME -ne "Administrator") {
     Set-ItemProperty -Path:$WinlogonPath -Name:"DefaultUserName" -Value:"Administrator";
     Set-ItemProperty -Path:$WinlogonPath -Name:"DefaultPassword" -Value:"";
 
+    $ResumeScriptPath = "$env:PUBLIC\LightHelp_Resume.ps1"
+    if ([string]::IsNullOrWhiteSpace($PSCommandPath)) {
+        $scriptBody =$MyInvocation.MyCommand.ScriptBlock.ToString()
+        if ([string]::IsNullOrWhiteSpace($scriptBody)) {$scriptBody = Invoke-RestMethod -Uri "https://raw.githubusercontent.com/Cotton059/Light-Help/refs/heads/main/light/LightShift/LightShift.ps1" -UseBasicParsing
+        }
+        Set-Content -Path $ResumeScriptPath -Value$scriptBody -Encoding UTF8
+    } else {
+        Copy-Item -Path $PSCommandPath -Destination$ResumeScriptPath -Force
+    }
+
     $RunOnceKey = "HKLM:\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce";
-    $LaunchCommand = "powershell.exe -ExecutionPolicy Bypass -NoExit -WindowStyle Normal -File `"$PSCommandPath`"";
+    $LaunchCommand = "powershell.exe -ExecutionPolicy Bypass -NoExit -WindowStyle Normal -File `"$ResumeScriptPath`"";
     Set-ItemProperty -Path:$RunOnceKey -Name:"LightHelp_ProfileMigrate" -Value:$LaunchCommand;
 
     Write-Host -Object:"`n[!] Environment staging complete. Press Enter to RESTART..." -ForegroundColor:Magenta;
@@ -271,7 +280,6 @@ else {
 
     Write-Host -Object:"`n[*] Deploying Robocopy..." -ForegroundColor:Cyan;
     
-    # 修复处：将原本的 $SourcePath$TargetPath 修改为了 "$SourcePath" "$TargetPath"
     robocopy.exe "$SourcePath" "$TargetPath" /E /COPY:DATSO /XJ /B /R:1 /W:1 /XF *.lock *.LOG1 *.LOG2 /XD "AppData\Local\Temp" "AppData\Local\Microsoft\Windows\WebCache";
 
     if ($LASTEXITCODE -ge 16) {
@@ -298,6 +306,8 @@ else {
     $WinlogonPath = "HKLM:\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Winlogon";
     Set-ItemProperty -Path:$WinlogonPath -Name:"AutoAdminLogon" -Value:"0";
     Remove-ItemProperty -Path:$WinlogonPath -Name:"DefaultPassword" -ErrorAction:SilentlyContinue;
+
+    Remove-Item -Path "$env:PUBLIC\LightHelp_Resume.ps1" -Force -ErrorAction SilentlyContinue;
 
     Show-EndScreen;
     logoff;

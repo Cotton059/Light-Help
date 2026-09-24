@@ -82,6 +82,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 ### 🐾 一键运行 用户文件夹转移工具
 > **提示：** 仅需1次运行Powershell,即可安全无损地将C盘“用户文件夹”整体迁移至其他分区，瞬间释放几十G空间，让C盘永远停止变大。
 ```powershell
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/LightShift/LightShift_Tool.ps1 | iex
 ```
 ---
 #### ▶️ 光速分享 (YT) 视频教程：[电脑软件一键双开/多开！独立环境无限多开告别臃肿沙盒](https://youtu.be/xBnsIEr9jrE)

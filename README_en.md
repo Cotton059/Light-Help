@@ -82,6 +82,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 > **Tip:** Simply run PowerShell once to safely and losslessly migrate your C Drive "Users" folder to another partition. This instantly frees up dozens of GBs and prevents your system drive from growing indefinitely.
 
 ```powershell
+iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/LightShift/LightShift_Tool.ps1 | iex
 ```
 ---
 #### ▶️ Lightspeed Sharing (YT) Video Tutorial: [Multi-Instance ANY PC App & Game! 1-Line Code, No Install, No Sandbox](https://youtu.be/xBnsIEr9jrE)

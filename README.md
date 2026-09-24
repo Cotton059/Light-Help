@@ -57,6 +57,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 ---
 
 ## 📑 视频教程导航
+- [▶️ 一键无损转移“用户文件夹”释放C盘](#️-光速分享-yt-视频教程c盘又爆满飘红千万别乱删一键无损转移用户文件夹释放几十g空间让c盘永远停止变大)
 - [▶️ 一键双开/多开任意软件游戏](#️-光速分享-yt-视频教程电脑软件一键双开多开独立环境无限多开告别臃肿沙盒)
 - [▶️ 深度清理Windows“DeepCleanPRO”](#️-光速分享-yt-视频教程深度清理-windows云端开源软件一键释放巨量系统空间)
 - [▶️ 1秒把脚本变成桌面工具](#️-光速分享-yt-视频教程windows-神仙玩法免安装运行github开源项目1秒把脚本变成桌面工具)
@@ -71,6 +72,17 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 - [▶️ 免费家庭影院搭建教程｜无需NAS](#️-光速分享-yt-视频教程免费家庭影院搭建教程无需nas一台电脑实现自动海报墙--全设备播放)
 - [▶️ iPhone照片视频无线传输到Windows](#️-光速分享-yt-视频教程iphone照片视频无线传输到windows无需任何软件)
 
+---
+#### ▶️ 光速分享 (YT) 视频教程：[C盘又爆满飘红？千万别乱删！一键无损转移“用户文件夹”，释放几十G空间，让C盘永远停止变大！]([视频链接])
+
+<a href="[视频链接]" target="_blank">
+  <img src="images/019-1920-tw.png" width="320" style="border-radius: 8px;" alt="视频封面图" title="点击播放视频" />
+</a>
+
+### 🐾 一键运行 用户文件夹转移工具
+> **提示：** 仅需1次运行Powershell,即可安全无损地将C盘“用户文件夹”整体迁移至其他分区，瞬间释放几十G空间，让C盘永远停止变大。
+```powershell
+```
 ---
 #### ▶️ 光速分享 (YT) 视频教程：[电脑软件一键双开/多开！独立环境无限多开告别臃肿沙盒](https://youtu.be/xBnsIEr9jrE)
 

@@ -56,6 +56,7 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 ```
 ---
 ## 📑 Video Tutorials Navigation
+- [▶️ 1-Click Move "Users Folder" & Free C Drive](#️-lightspeed-sharing-yt-video-tutorial-c-drive-full-again-dont-delete-blindly-1-click-lossless-users-folder-migration-to-free-up-dozens-of-gbs--stop-c-drive-from-growing)
 - [▶️ 1-Click Multi-Instance App & Game](#️-lightspeed-sharing-yt-video-tutorial-multi-instance-any-pc-app--game-1-line-code-no-install-no-sandbox)
 - [▶️ Deep Clean Windows "DeepCleanPRO"](#️-lightspeed-sharing-yt-video-tutorial-one-line-deep-windows-cleanup-no-software-needed-1-click-free-up-massive-system-space)
 - [▶️ 1-Sec Script to Desktop App](#️-lightspeed-sharing-yt-video-tutorial-windows-god-mode-1-sec-zero-install-github-scripts-to-desktop-apps)
@@ -69,6 +70,19 @@ iwr -useb https://raw.githubusercontent.com/Cotton059/Light-Help/main/light/Crea
 - [▶️ Deep Windows Cleanup](#️-lightspeed-sharing-yt-video-tutorial-one-line-deep-windows-cleanup-no-software-needed-free-up-massive-space)
 - [▶️ Free Home Theater Setup](#️-lightspeed-sharing-yt-video-tutorial-free-home-theater-setup--no-nas-needed-auto-poster-wall--multi-device-playback-on-one-pc)
 - [▶️ iPhone to Windows Wireless Transfer](#️-lightspeed-sharing-yt-video-tutorial-wirelessly-transfer-iphone-photos--videos-to-windows-without-any-software)
+---
+---
+#### ▶️ Lightspeed Sharing (YT) Video Tutorial: [C Drive Full Again? Don't Delete Blindly! 1-Click Lossless "Users Folder" Migration to Free Up Dozens of GBs & Stop C Drive from Growing!](https://youtu.be/YOUR_VIDEO_LINK)
+
+<a href="https://youtu.be/YOUR_VIDEO_LINK" target="_blank">
+  <img src="images/019-1920-en.png" width="320" style="border-radius: 8px;" alt="Video Cover" title="Click to Play Video" />
+</a>
+
+### 🐾 1-Click Run Users Folder Migration Tool
+> **Tip:** Simply run PowerShell once to safely and losslessly migrate your C Drive "Users" folder to another partition. This instantly frees up dozens of GBs and prevents your system drive from growing indefinitely.
+
+```powershell
+```
 ---
 #### ▶️ Lightspeed Sharing (YT) Video Tutorial: [Multi-Instance ANY PC App & Game! 1-Line Code, No Install, No Sandbox](https://youtu.be/xBnsIEr9jrE)
 

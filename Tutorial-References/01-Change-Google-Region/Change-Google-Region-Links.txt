@@ -1,17 +1,20 @@
-教學影片網址：
+
+▶教學影片網址：
 Tutorial Video:
 https://youtu.be/-oYbT6RrGC0
 
-判斷帳號法定付款地址
+----------------------------------------
+
+📍判斷帳號法定付款地址
 Determine Account Legal Payment Address
 https://myaccount.google.com/addressbook?utm_source=payments-center&utm_medium=addresses
 
 
-查詢帳號所屬地區
+🌐查詢帳號所屬地區
 Check Account Region
 https://policies.google.com/terms/update
 
 
-申請變更帳號地區
+📝申請變更帳號地區
 Request Account Region Change
 https://policies.google.com/country-association-form

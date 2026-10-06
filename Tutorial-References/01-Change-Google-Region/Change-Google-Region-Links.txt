@@ -1,3 +1,9 @@
+📌簡介：
+修改 Google 帳號的判定地區，用於解決因地區限制，而無法使用 Flow、Gemini 等 Google 系列服務的問題。
+
+📌Description:
+Change the detected region of your Google account to resolve the issue of being unable to use Google services like Flow and Gemini due to regional restrictions.
+----------------------------------------
 ▶教學影片網址：
 Tutorial Video:
 https://youtu.be/-oYbT6RrGC0

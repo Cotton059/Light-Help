@@ -1,4 +1,9 @@
+📌簡介：
+快速取得 PikPak 雲端硬碟免費 100GB 空間，並獲得每日 10 次雲端下載功能，用於解決臨時下載時因無會員而難以下載的問題。
 
+📌Description:
+Quickly get 100GB of free storage on PikPak cloud drive and receive 10 daily cloud downloads, solving the issue of difficult temporary downloads without a premium membership.
+----------------------------------------
 
 ▶教學影片網址：
 Tutorial Video:
@@ -30,7 +35,7 @@ If you don't have any files to share, you can use the one below. Simply save it 
 https://mypikpak.com/s/VP2rwmNWrDtv30ftAvnu9WeUo2
 
 ----------------------------------------
-💡如果对其他教程赶兴趣，可一键打包所有已更新的教学资料。
-
+💡如果您對其他教學感興趣，可一鍵打包所有已更新的教學資料。
+If you are interested in other tutorials, you can download all updated tutorial materials with a single click.
 https://mypikpak.com/s/VP3FbOWSetF32396Hp3UFv6Eo2
 

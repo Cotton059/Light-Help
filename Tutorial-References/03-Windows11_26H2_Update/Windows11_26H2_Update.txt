@@ -1,0 +1,35 @@
+📌簡介：
+本期教學分享如何下載微軟官方 Windows 11 ISO 映像檔，使用 Windows Update Blocker 徹底關閉系統自動更新，並搭配專屬的記憶體優化腳本，讓您的系統保持極致效能與穩定狀態。
+
+📌Description:
+Learn how to download the official Microsoft Windows 11 ISO, completely disable automatic system updates using Windows Update Blocker, and apply an exclusive memory optimization script to keep your system at peak performance and stability.
+----------------------------------------
+
+▶教學影片網址：
+Tutorial Video:
+Youtube:
+bilibili:
+
+----------------------------------------
+
+⬇️微軟官方 Windows 11 ISO 下載地址
+Microsoft Official Windows 11 ISO Download Link
+https://www.microsoft.com/zh-cn/software-download/windows11
+
+🛡️Windows Update Blocker (禁止更新工具)
+Windows Update Blocker (Disable Updates Tool)
+https://www.sordum.org/9470/windows-update-blocker-v1-8/
+
+📝記憶體優化腳本地址
+Memory Optimization Script Link
+https://lh.103386.xyz/015
+
+📝記憶體優化视频教学地址
+Memory Optimization Tutorial Video Link
+https://youtu.be/PqKu_lRyAZM
+
+----------------------------------------
+
+💡如果您對其他教學感興趣，可一鍵打包所有已更新的教學資料。
+If you are interested in other tutorials, you can download all updated tutorial materials with a single click.
+https://mypikpak.com/s/VP3FbOWSetF32396Hp3UFv6Eo2
